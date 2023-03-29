@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("lb is a hero!");
         System.out.println("master");
         System.out.println("hot-fix");
+        System.out.println("push test!");
     }
 }
